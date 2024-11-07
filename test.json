@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/Harsh-Navgale/swaggerhtmli/refs/heads/main/test.yaml",
+    "url": "https://raw.githubusercontent.com/Harsh-Navgale/swaggerhtmli/refs/heads/main/xss.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/Harsh-Navgale/swaggerhtmli/refs/heads/main/test.yaml",
+            "url": "https://raw.githubusercontent.com/Harsh-Navgale/swaggerhtmli/refs/heads/main/xss.yaml",
             "name": "Test"
         }
     ]
