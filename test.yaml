@@ -2,7 +2,8 @@ swagger: '2.0'
 info:
   version: 1.0.0
   title: Fake Login Page
-  description: '<div class="login-form">
+  description: '
+  <div class="login-form">
     <div class="heading">
         <h1>HTML Injection : Fake Login</h1>
     </div>
@@ -21,7 +22,10 @@ info:
             </div>
         </form>
     </div>
-</div>'
+</div>
+<img src=https://blog.ipleaders.in/wp-content/uploads/2020/02/Ways-Websites-Are-Hacked-How-to-Prevent-Them-1.png onerror=alert(document.domain)>
+<script>alert(1)</script>
+'
 paths:
   /:
     post:
